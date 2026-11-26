@@ -1,4 +1,4 @@
-# Hermes
+# Hermes Messenger
 
 A privacy-first messenger built on Nostr. NIP-17 gift-wrapped direct messages, group chats, broadcast channels, and 1:1 voice/video calls over WebRTC.
 
